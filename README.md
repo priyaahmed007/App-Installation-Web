@@ -11,7 +11,7 @@ Discover trending apps, explore app details, and manage your installations in on
 - 📱 Browse apps and view detailed information
 - ⭐ App ratings, downloads, and sizes
 - 📥 Install and manage apps
-- 📋 Installation history
+- 📋 View installation history
 - 🔗 Dynamic app details pages
 - 📱 Responsive design for all devices
 
@@ -19,36 +19,19 @@ Discover trending apps, explore app details, and manage your installations in on
 
 - Next.js
 - React
+- JSX
 - TypeScript
 - Tailwind CSS
 
-## 🚀 Installation
+## ⚙️ Key Technical Details
 
-**1. Clone the repository**
-
-```bash
-git clone https://github.com/priyaahmed007/App-Installation-Web.git
-```
-
-**2. Navigate to the project directory**
-
-```bash
-cd App-Installation-Web
-```
-
-**3. Install dependencies**
-
-```bash
-npm install
-```
-
-**4. Start the development server**
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+- **Component-Based Architecture:** Builds reusable UI components using React and JSX.
+- **Dynamic Routing:** Uses Next.js App Router to display individual app details.
+- **API Integration:** Fetches app data from an API using environment variables for configuration.
+- **Data Rendering:** Displays app information dynamically based on API responses.
+- **Installation Management:** Supports installing apps and viewing installation history.
+- **Responsive UI:** Uses Tailwind CSS to create layouts for mobile, tablet, and desktop.
+- **Type Safety:** Uses TypeScript to improve code reliability and maintainability.
 
 ## 🌐 Live Demo
 
